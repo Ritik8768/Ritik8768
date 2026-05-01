@@ -1,7 +1,7 @@
 # Hi there! I'm Ritik Selukar 👋
 
 ## 🚀 About Me
-I'm a **Cloud Engineer** with expertise in **AWS** and **Linux**. I have **1.4 years of experience** in managing cloud infrastructure, automating deployments, and ensuring system reliability.
+I'm a **Cloud Engineer** with expertise in **AWS** and **Linux**. I have **2.4 years of experience** in managing cloud infrastructure, automating deployments, and ensuring system reliability.
 
 ## 🔧 Skills & Technologies
 <p align="left">
